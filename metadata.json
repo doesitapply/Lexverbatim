@@ -1,0 +1,5 @@
+{
+  "name": "LexVerbatim",
+  "description": "A high-fidelity legal transcription platform designed for court standards. Features strict Q&A formatting, 25-line page pagination, crosstalk handling, and Gemini-powered role deduction.",
+  "requestFramePermissions": []
+}
